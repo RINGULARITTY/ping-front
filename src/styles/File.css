@@ -1,0 +1,19 @@
+.file {
+    padding: 5px 15px 5px 5px;
+    font-size: large;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(235, 235, 235);
+    transition-duration: 0.5s;
+    cursor: context-menu;
+}
+
+.file:hover {
+    background-color: rgb(101, 78, 0);
+    translate: 10px 0px;
+    transition-duration: 0.5s;
+}
+
+.js {
+    color: rgb(227, 174, 2);
+}
